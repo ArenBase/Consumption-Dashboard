@@ -1,0 +1,16 @@
+# 主题：改用 awesome-design-md / notion/DESIGN.md 的亮色令牌
+# 切换暗色：把 base 改成 "dark"，并把下面四个颜色替换为注释里的暗色值
+[theme]
+base = "light"
+primaryColor = "#5645d4"              # dark: #8f7ff0
+backgroundColor = "#ffffff"           # dark: #191919
+secondaryBackgroundColor = "#f6f5f4"  # dark: #202020
+textColor = "#37352f"                 # dark: #d4d4d1
+font = "sans serif"
+
+[server]
+headless = true
+fileWatcherType = "auto"
+
+[browser]
+gatherUsageStats = false

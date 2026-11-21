@@ -1,0 +1,7 @@
+# 实验2 数据看板 —— 依赖清单
+# 安装： pip install -r requirements.txt
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1

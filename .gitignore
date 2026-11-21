@@ -1,0 +1,22 @@
+# ---- 体积较大的全量数据：仓库不收录，首次运行 启动看板.bat 会自动生成 ----
+data/校园消费数据.csv
+data/校园消费原始数据.csv
+
+# ---- 旧版截图（已被 截图/ 下的新图替代）----
+截图/_旧版截图/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# ---- Streamlit 本地机密 ----
+.streamlit/secrets.toml
